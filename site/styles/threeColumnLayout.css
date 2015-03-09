@@ -1,0 +1,59 @@
+/* *****  Begin Generic Three Column ***** */
+body{
+	margin:0;
+	padding:0;
+}
+.header, .footer{
+	clear:both;
+	float:left;
+	width:100%;
+}
+
+/* Start of Column CSS */
+.container3{ /* containers own columns: .col1, col2, and col3 */
+	clear:left;
+	float:left;
+	width:100%;
+	overflow:hidden;
+}
+.container2{ /* containers own columns: .col1, col2, and col3 */
+	clear:left;
+	float:left;
+	width:100%;
+	position:relative;
+	right:33.333%;
+}
+.container1{ /* containers own columns: .col1, col2, and col3 */
+	float:left;
+	width:100%;
+	position:relative;
+	right:33.33%;
+}
+.col1{
+	float:left;
+	width:29.33%;
+	position:relative;
+	left:68.67%;
+	overflow:hidden;
+	border:outset 1px #fff689;
+	background:#fff689; /* column 1 background colour */	
+}
+.col2{
+	float:left;
+	width:29.33%;
+	position:relative;
+	left:72.67%;
+	overflow:hidden;
+	border:outset 1px #ffa7a7;
+	background:#ffa7a7; /* column 2 background colour */	
+}
+.col3{
+	float:left;
+	width:29.33%;
+	position:relative;
+	left:76.67%;
+	overflow:hidden;
+	border:outset 1px #89ffa2;
+	background:#89ffa2; /* column 3 background colour */	
+}
+/* *****  End Generic Three Column ***** */
