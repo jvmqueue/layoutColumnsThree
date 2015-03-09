@@ -15,9 +15,9 @@
 	<li>Grunt for CSS lint, and compression</li>
 </ul>
 </ul>
-<h4>Fundemental Architecture</h4>
+<h3>Fundemental Architecture</h3>
 <dl>
-	<h3>layouts/columnsThree/site/</h3>
+	<h4>layouts/columnsThree/site/</h4>
 	<dd>html resources</dd>
 	<dt>styles</dt>
 	<dd>CSS resources</dd>
