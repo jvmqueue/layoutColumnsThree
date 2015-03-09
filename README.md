@@ -1,9 +1,9 @@
 <h1>Generic Threee Column Flexible Layout</h1>
 <p>This is meant for reuse, not to be a project</p>
 <p><a href="http://jvmqueue.com/layouts/columnsThree/site/">Live URL</a></p>
-<h2>Current State</h2>
+<h3>Current State</h3>
 <p>Example developed March 2015</p>
-<p>Using, but not limited to:</p>
+<h3>Using, but not limited to:</h3>
 <ul>
 	<li>CSS</li>	
 	<li>Grunt</li>
